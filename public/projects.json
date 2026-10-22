@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Restaurant Menu Ordering Website",
+    "content": "Developed a restaurant menu ordering website using HTML, PHP, CSS, and MySQL, featuring dynamic menu displays, product enquiry forms, server-side validation, and database management",
+    "link": "https://github.com/Tyer23/Order-Page"
+  },
+  
+  {
+    "id": 2,
+    "title": "My Friend System",
+    "content": "Created a social media platform using HTML, PHP, and MySQL, including user authentication, friend interactions, real-time updates, and database integration",
+    "link": "https://github.com/Tyer23/My-Friend-Page"
+  },
+  
+  {
+    "id": 3,
+    "title": "Insight Hire Page",
+    "content": "Designed an Insight Hire application using Vue.js and Bootstrap, featuring job browsing, job applications, and task management",
+    "link": "https://github.com/Tyer23/Insight-Hire-Page"
+  },
+  
+  {
+    "id": 4,
+    "title": "Recipe Recommendation Website",
+    "content": "Developed a recipe recommendation website using Vue.js and Node.js, integrating REST APIs to fetch and process data, implementing a responsive and interactive user interface",
+    "link": "https://github.com/Tyer23/Recipe-Recommendation-Page"
+  }
+]
